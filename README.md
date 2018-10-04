@@ -1,4 +1,4 @@
-# TransformingCulture
+# Transforming Culture
 
 Have you ever found the need for change, but had no idea how to move forward? Without a clear path or the support necessary to succeed, change - especially cultural change - can be daunting. Transformation can be scary and faced with resistance, but it doesn’t have to be.
 
