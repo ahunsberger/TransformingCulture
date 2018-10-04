@@ -2,11 +2,11 @@
 Presentation and materials for Transforming Culture with DevOps Principles Talk. This changes each time I give it, so notable differences are listed out. 
 
 This has been given in some form at the following venues:
-* TISQA (Feb 2018)
-* SauceCon (Mar 2018)
+* TISQA (Feb 2018) 
+* SauceCon (Mar 2018) 
 * Quality Jam (Apr 2018)
 * DevOps West (Jun 2018)
-* TriTaug Meetup (Oct 2018) - first time adding exercises
+* TriTaug Meetup (Oct 2018) - added exercises
 
 # Slides
 Github is yelling at me for trying to upload a 90 MB file. So, here are some links!
