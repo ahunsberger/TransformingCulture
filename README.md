@@ -1,7 +1,7 @@
 # TransformingCulture
 Presentation and materials for Transforming Culture with DevOps Principles Talk. This changes each time I give it, so notable differences are listed out. 
 
-This has been given in some form at the following venues:
+Presented at the following venues:
 * TISQA (Feb 2018) 
 * SauceCon (Mar 2018) 
 * Quality Jam (Apr 2018)
