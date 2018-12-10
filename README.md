@@ -7,6 +7,7 @@ At the heart of DevOps is the idea that teams work together to innovate faster, 
 Join me as we go through some real-world examples of applying principles that can lead to real change!
 
 Presented at the following venues:
+* Selenium Conf (Apr 2017)
 * TISQA (Feb 2018) 
 * SauceCon (Mar 2018) 
 * Quality Jam (Apr 2018)
