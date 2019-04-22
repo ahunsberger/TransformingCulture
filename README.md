@@ -13,6 +13,7 @@ Presented at the following venues:
 * Quality Jam (Apr 2018)
 * DevOps West (Jun 2018)
 * TriTaug Meetup (Oct 2018) - added exercises
+* Booster Conf (Mar 2019) - 3 hour workshop w/ Lisa Crispin
 
 # Slides and Materials
 Presentation and materials for Transforming Culture with DevOps Principles Talk. This changes each time I give it, so notable differences are listed out. 
